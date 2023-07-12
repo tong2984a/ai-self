@@ -29,7 +29,7 @@ payload = {
         "pad_audio": "0.0"
     },
     "source_url": "https://as2.ftcdn.net/v2/jpg/01/28/41/29/1000_F_128412995_e1rdKIAIlxKunn7a7PSAhDp0K1s4g3EB.jpg",
-    "webhook": "https://35.222.134.123:8300/webhook"
+    "webhook": "http://3046.chickenkiller.com:8300/webhook"
 }
 headers = {
     "accept": "application/json",
